@@ -22,7 +22,7 @@ In this project I am used simple html components that can be modified using boot
 
 # How to Download and use the project.
 
-1. Clone the project.
+1. Clone the project(Rename the project folder to WebApplication3)
 2. Copy to Netbeans project folder.
 3. Open in Netbeans.
 4. Install Xamp or LAMP 
